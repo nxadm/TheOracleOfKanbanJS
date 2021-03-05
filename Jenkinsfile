@@ -2,7 +2,7 @@
 
 buildDockerImage {
    namespace       = 'ccis'
-   imageName       = 'tofkjs'
+   imageName       = 'tookjs'
    alwaysLatest    = true
    flatten         = true
 }
